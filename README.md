@@ -11,7 +11,7 @@ Imagine a Minecraft Manhunt, but there's a ghost and hunters. The ghost has a sp
 - /startgame - Begins the game and starts the ManHunt.
 
 ### Updates
-26/2/2022 - Completed v1.0
+26/2/2022 - Completed v1.0 / Planning to make it open-source, will be next update.
 
 
 **For any bugs / update errors, please create an Issue, and I'll get to it as soon as possible.**
