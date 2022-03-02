@@ -10,6 +10,9 @@ Imagine a Minecraft Manhunt, but there's a ghost and hunters. The ghost has a sp
 - /resetteams - Resets and removes all players from all teams
 - /startgame - Begins the game and starts the ManHunt.
 
+## Usage
+You are freely allowed to use this plugin. However, if you do use it, **please do credit me via either my GitHub link, or my Twitter link.** Thank you, much appreciated!
+
 ### Updates
 26/2/2022 - Completed v1.0 / Planning to make it open-source, will be next update.
 
