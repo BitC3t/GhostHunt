@@ -15,6 +15,6 @@ You are freely allowed to use this plugin. However, if you do use it, **please d
 
 ### Updates
 26/2/2022 - Completed v1.0 / Planning to make it open-source, will be next update.
-
+24/3/2022 - Completed v1.0.1 / Bug Fixes / Now **Open-Source!**
 
 **For any bugs / update errors, please create an Issue, and I'll get to it as soon as possible.**
