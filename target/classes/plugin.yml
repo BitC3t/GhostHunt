@@ -1,0 +1,27 @@
+name: GhostHunt
+main: me.floof.here.main.GhostHuntMain
+version: 1.0
+author: Floo_f
+api-version: 1.13
+commands:
+   hunter:
+      description: Add a player to the Hunter Team.
+      usage: /<command> [player]
+      permission: GH.ops
+      permission-message: You don't have <permission>
+   ghost:
+      description: Add a player to the Ghost Team.
+      usage: /<command> [player]
+      permission: GH.ops
+      permission-message: You don't have <permission>
+   resetteams:
+      description: Resets all teams.
+      usage: /<command>
+      permission: GH.ops
+      permission-message: You don't have <permission>
+   startgame:
+      description: Resets all teams.
+      usage: /<command>
+      permission: GH.ops
+      permission-message: You don't have <permission>
+      
